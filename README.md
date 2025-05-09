@@ -1,5 +1,3 @@
-Got it! Here's a simple README for your project:
-
 # **ADB Data Extraction and Desktop Application**
 
 ## **Overview**
