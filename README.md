@@ -1,8 +1,6 @@
 # **ADB Data Extraction and Desktop Application**
 
 
-**Swetha Prasad - 012300300002004046**
-
 ## **Overview**
 This project extracts mobile data such as Contacts, SMS, Call Logs, Device Information, and Login Accounts from an Android device using **ADB (Android Debug Bridge)**. The extracted data is then stored and displayed in a **C# Windows Forms** desktop application, with a **SQL Server database** for storage.
 
